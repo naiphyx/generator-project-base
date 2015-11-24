@@ -16,10 +16,6 @@ npm install
 npm test
 ```
 
-# Authors
-
-- [Hannes Moser](mailto:hannes@impossiblearts.com)
-
 # License
 
 [The MIT License](https://opensource.org/licenses/MIT)
